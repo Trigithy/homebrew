@@ -1,0 +1,17 @@
+{
+  "item.minecraft.netherite_sword":"Mythril Blade",
+  "item.minecraft.netherite_hoe":"Mythril Scythe",
+  "item.minecraft.netherite_pickaxe":"Mythril Pickax",
+  "item.minecraft.netherite_axe":"Mythril Ax",
+  "item.minecraft.netherite_shovel":"Mythril Spade",
+  "item.minecraft.netherite_scrap":"Unrefined Mythril",
+  "item.minecraft.netherite_ingot":"Mythril Ingot",
+  "block.minecraft.netherite_block": "Block of Mythril",
+  "item.minecraft.netherite_helmet":"Mythril Helm",
+  "item.minecraft.netherite_chestplate":"Mythril Chestpiece",
+  "item.minecraft.netherite_leggings":"Mythril Tassets",
+  "item.minecraft.netherite_boots":"Mythril Greaves",
+  "subtitles.item.armor.equip_netherite": "Mythril armor clanks",
+  "advancements.husbandry.netherite_hoe.description": "Use a Mythril ingot to upgrade a hoe, and then reevaluate your life choices",
+  "advancements.nether.netherite_armor.description": "Get a full suit of Mythril armor"
+}

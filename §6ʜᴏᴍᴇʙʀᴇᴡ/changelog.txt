@@ -1,0 +1,56 @@
+####################################################
+   _____ _                            _             
+  / ____| |                          | |            
+ | |    | |__   __ _ _ __   __ _  ___| | ___   __ _ 
+ | |    |  _ \ / _` | `_ \ / _` |/ _ \ |/ _ \ / _` |
+ | |____| | | | (_| | | | | (_| |  __/ | (_) | (_| |
+  \_____|_| |_|\__,_|_| |_|\__, |\___|_|\___/ \__, |
+                            __/ |              __/ |
+                           |___/              |___/ 
+
+####################################################
+  
+                      [v1.1]
+
+ -Added custom Gapple texture
+ -Added custom Totem of Undying texture (thank you moppl)
+ -Changed end.txt and splashes.txt, added 40 custom splashes
+ -Lowered fire texture
+ -Brightened the End sky texture
+ -Added custom enchant glint
+
+                      [v1.1.1]
+ 
+ -Edited Totem pop, Crit, Potion effect, and Explosion particles to be less intrusive
+ -Added 23 custom splashes
+ -Added custom Ender pearl texture
+ 
+                      [v.1.2]
+ 
+ -Complete Netherite armor/tools texture revamp
+ -Replaced 'Netherite' in US lang files with 'Mythril'
+ -Updated Ender pearl texture
+ -Added 1 custom splash
+ -Added End crystal texture placeholder
+
+                      [v.1.2.1]
+ 
+ -Removed Block rotations
+ -Streamlined particle exclusion to lower pack clutter and size
+ -Fixed smoke particles not being removed properly
+ -Changed splash potion particles
+ -Added 20 custom splashes
+
+                      [v.1.2.2]
+
+-Added custom 'potion' and 'splash_potion' texture
+-Changed custom enchant glint
+-Added custom ghast tear texture
+-Added custom End Crystal item texture
+-Added custom Obsidian texture
+
+                      [v.1.2.3]
+
+-Added custom Obsidian place/break sound
+-Added custom Apple, Carrot, and GCarrot texture
+-Added custom 'lingering_potion' texture
